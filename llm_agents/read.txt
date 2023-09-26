@@ -1,0 +1,17 @@
+Doc:
+----
+https://microsoft.github.io/autogen/docs/Use-Cases/agent_chat/
+
+FLAML:
+----
+https://github.com/microsoft/FLAML/tree/main/notebook
+
+AutoGen:
+------
+https://microsoft.github.io/autogen/
+
+Examples:
+---------
+https://github.com/microsoft/autogen/tree/main/notebook
+
+https://microsoft.github.io/autogen/docs/Examples/AutoGen-AgentChat/

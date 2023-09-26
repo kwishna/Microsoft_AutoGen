@@ -1,4 +1,7 @@
 from autogen import AssistantAgent, UserProxyAgent
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # create an AssistantAgent instance named "assistant"
 assistant = AssistantAgent(name="assistant")
